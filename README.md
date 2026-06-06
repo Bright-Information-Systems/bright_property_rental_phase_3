@@ -2,6 +2,7 @@
 
 **Bright Information Systems W.L.L** · Odoo 19 Enterprise  
 **Workspace:** `projects/qatar_property_phase3_custom_addons/`  
+**Repository:** https://github.com/Bright-Information-Systems/bright_property_rental_phase_3  
 **Date:** June 2026
 
 ---
