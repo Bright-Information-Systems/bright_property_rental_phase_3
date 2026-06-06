@@ -1,0 +1,21 @@
+# Odoo runtime
+.filestore/
+.filestore_phase3/
+*.pyc
+__pycache__/
+
+# Reference industry package (OEEL — local sandbox only)
+industry_real_estate*/
+
+# Playwright
+tests/playwright/node_modules/
+tests/playwright/.uat_records.json
+tests/playwright/playwright-report/
+tests/playwright/test-results/
+tests/playwright/package-lock.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+.env
